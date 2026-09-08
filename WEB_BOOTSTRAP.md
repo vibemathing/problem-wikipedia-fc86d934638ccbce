@@ -1,18 +1,18 @@
 # Web Research Bootstrap
 
-- Repository: `vibemathing/vibe-mathing-problem-public-template`
+- Repository: `vibemathing/problem-wikipedia-fc86d934638ccbce`
 - Repository binding: `verified`
-- Repository database ID: `1358726712`
-- Repository node ID: `R_kgDOUPyGOA`
+- Repository database ID: `1361295453`
+- Repository node ID: `R_kgDOUSO4XQ`
 - Default branch: `main`
 - Visibility: `public`
-- Canonical Problem: `problem:template-placeholder`
-- ProblemContract SHA-256: `e64cd03254e03dd661eade23243c3c21793fc2d8bffa2d33c172cf8ed2e7f940`
+- Canonical Problem: `problem:wikipedia-fc86d934638ccbce`
+- ProblemContract SHA-256: `f00834824fa90f48a74fdddb84aee07f8cc868c2d7ae00753d2738ec03e5438a`
 - Problem lifecycle: `draft`
 - Problem admission: `preview_unadmitted`
 - Harness suite: `harness-source:web-research-full` `1.5.1`
 - Suite manifest SHA-256: `94cff861e217ccfec6122b3c79b828a24afc03784c8572018772fb2bfcc35766`
-- Harness snapshot SHA-256: `96819115c4bc07b48d294be5be343132ec05771648a4a3bcaa14df71259580da`
+- Harness snapshot SHA-256: `5f01a222f7e2c053275dc39d7728e6fbb7206aef44e95f6bebe3d09ef2c21e83`
 - Channel: `chatgpt-web-github-issue-pr-writer`
 
 ## Required read order
